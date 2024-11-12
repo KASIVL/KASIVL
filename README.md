@@ -29,9 +29,8 @@ ohpm_management_app/
     └── static              # CSS, JavaScript, and image assets (if any)
 ```
 ## Get In Touch
-- 📫 Email: YourEmail@example.com
-- 💼 LinkedIn: Your LinkedIn Profile
-- 🌐 Portfolio: Your Website or Portfolio Link
+- 📫 Email: kari.silerio04@gmail.com
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/klopez26/)
 
 ### Feel free to reach out! I’m always open to discussing new ideas, collaborations, or just connecting with like-minded developers.
 ### Thanks for visiting! 😊
