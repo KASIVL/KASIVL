@@ -18,7 +18,7 @@ This full-stack lab management application streamlines the process of managing c
 - **OHP Form Tracking:** Manages and stores data from OHP forms, helping keep lab compliance and safety records organized.
 - **Database Integration:** Built with PostgreSQL to store, retrieve, and manage all data, ensuring data integrity and efficient querying.
   
-**Tech Stack:** Python (Flask backend), PostgreSQL (database), HTML/CSS (frontend)
+**Tech Stack:** Python (Django backend), PostgreSQL (database), HTML/CSS (frontend)
 
 **Project Structure:**
 ```plaintext
